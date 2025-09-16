@@ -1,5 +1,3 @@
-# Firebase Studio
+# Verdant Wallet
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+A comprehensive budgeting and expense tracking app designed for clear financial oversight, built with Next.js and Firebase Studio.
